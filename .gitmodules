@@ -1,0 +1,6 @@
+[submodule "bourdain-ios"]
+	path = bourdain-ios
+	url = git@github.com:karen-ho/bourdain-ios.git
+[submodule "bourdain-server"]
+	path = bourdain-server
+	url = git@github.com:karen-ho/bourdain-server.git
